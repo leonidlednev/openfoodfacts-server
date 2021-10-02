@@ -18435,36 +18435,43 @@ it:Barletta
 protected_name_file_number:en: PDO-IT-A0542
 protected_name_type:en: pdo
 origins:en: en:Italy
+#wikidata:en:
 
 <en:Wines from Italy
 it:Negroamaro di Terra d'Otranto
 protected_name_file_number:en: PDO-IT-A0557
 protected_name_type:en: pdo
 origins:en: en:Italy
+wikidata:en:Q25383124
 
 <en:Wines from Italy
 it:Terra d'Otranto
 protected_name_file_number:en: PDO-IT-A0572
 protected_name_type:en: pdo
 origins:en: en:Italy
+wikidata:en:Q26898065
+# Not to be confused with the olive oil
 
 <en:Wines from Italy
 it:Colli Euganei Fior d'Arancio, Fior d'Arancio Colli Euganei
 protected_name_file_number:en: PDO-IT-A0455
 protected_name_type:en: pdo
 origins:en: en:Italy
+#wikidata:en:
 
 <en:Wines from Italy
 it:Piave Malanotte, Malanotte del Piave
 protected_name_file_number:en: PDO-IT-A0463
 protected_name_type:en: pdo
 origins:en: en:Italy
+wikidata:en:Q21050761
 
 <en:Wines from Italy
 it:Amarone della Valpolicella
 protected_name_file_number:en: PDO-IT-A0435
 protected_name_type:en: pdo
 origins:en: en:Italy
+wikidata:en:Q455219
 
 <en:Wines from Italy
 it:Offida
@@ -50400,6 +50407,7 @@ fr:Abricots rouges du Roussillon
 protected_name_file_number:en: PDO-FR-01328
 protected_name_type:en: pdo
 origins:en: en:France
+wikidata:en:Q42300798
 
 <en:Fruits
 en:Berries, Red berries
@@ -55765,6 +55773,14 @@ protected_name_file_number:en: PGI-FR-0503
 protected_name_type:en: pgi
 origins:en: en:France
 wikidata:en:Q21427661
+# Le stockage des graines et la production de la pâte de moutarde doivent avoir lieu sur le territoire de la région Bourgogne, à savoir les quatre départements de la Côte-d'Or, de la Nièvre, de la Saône-et-Loire et de l'Yonne. 
+# La culture des graines doit s'effectuer dans une zone plus restreinte, au cœur de l'aire géographique précitée ; le Morvan et les monts du Mâconnais en sont exclus en raison de sols peu favorables à la culture3. 
+# Le vin blanc utilisé doit être produit en Bourgogne ou dans le Beaujolais.
+# La moutarde de Bourgogne comprend nécessairement des graines de moutarde produites et stockées en Bourgogne, du vin blanc aligoté et/ou chardonnay en proportion de 25 % minimum (et jusqu'à 16 % du produit fini2) à la mise en œuvre, d'eau, de sucre, d'épices, de quelques additifs et de sel
+compulsory_ingredient:fr:graines de moutarde
+minimum_percentage:fr:vin blanc aligoté:25
+minimum_percentage:fr:chardonnay:25
+
 
 <en:Mustards
 en:German mustards
@@ -80411,6 +80427,28 @@ fr:Pommes de terre de Laponie
 protected_name_file_number:en: PDO-FI-1390
 protected_name_type:en: pdo
 origins:en: en:Finland
+wikidata:en:Q3183151
+
+<en:Potatoes
+it:Patata novella di Galatina
+protected_name_file_number:en: PDO-IT-1148
+protected_name_type:en: pdo
+origins:en: en:Italy
+wikidata:en:Q3368641
+
+<en:Potatoes
+it:Patata Rossa di Colfiorito
+protected_name_file_number:en: PGI-IT-1236
+protected_name_type:en: pgi
+origins:en: en:Italy
+wikidata:en:Q3368646
+
+<en:Potatoes
+it:Patata del Fucino
+protected_name_file_number:en: PGI-IT-01217
+protected_name_type:en: pgi
+origins:en: en:Italy
+wikidata:en:Q3368654
 
 <en:Potatoes
 it:Patata del Fucino
@@ -80419,34 +80457,18 @@ protected_name_type:en: pgi
 origins:en: en:Italy
 
 <en:Potatoes
-it:Patata novella di Galatina
-protected_name_file_number:en: PDO-IT-1148
-protected_name_type:en: pdo
-origins:en: en:Italy
-
-<en:Potatoes
-it:Patata Rossa di Colfiorito
-protected_name_file_number:en: PGI-IT-1236
-protected_name_type:en: pgi
-origins:en: en:Italy
-
-<en:Potatoes
-it:Patata del Fucino
-protected_name_file_number:en: PGI-IT-01217
-protected_name_type:en: pgi
-origins:en: en:Italy
-
-<en:Potatoes
 it:Patata di Bologna
 protected_name_file_number:en: PDO-IT-0349
 protected_name_type:en: pdo
 origins:en: en:Italy
+wikidata:en:Q3368638
 
 <en:Potatoes
 it:Patata della Sila
 protected_name_file_number:en: PGI-IT-0643
 protected_name_type:en: pgi
 origins:en: en:Italy
+wikidata:en:Q647212
 
 <fr:Pommes de terre Béa
 fr:Béa du Roussillon, pomme de terre primeur du Roussillon
@@ -80585,6 +80607,7 @@ it:Patata dell'Alto Viterbese
 protected_name_file_number:en: PGI-IT-1038
 protected_name_type:en: pgi
 origins:en: en:Italy
+wikidata:en:Q3368640
 
 #<en:Potatoes
 en:New Season Comber Potatoes, Comber Earlies
